@@ -1,0 +1,2 @@
+rootProject.name = 'FileFilterApp'
+include ':app'
