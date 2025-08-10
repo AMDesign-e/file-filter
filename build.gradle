@@ -1,0 +1,4 @@
+dependencies {
+    implementation 'androidx.activity:activity:1.7.2'
+    implementation 'androidx.fragment:fragment:1.6.1'
+}
